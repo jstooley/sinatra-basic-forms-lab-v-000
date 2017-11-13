@@ -10,4 +10,8 @@ class App < Sinatra::Base
     
   end
 
+  post 'display' do
+    erb display_puppy
+  end
+
 end
