@@ -1,2 +1,2 @@
-class puppy
+class Puppy
 end
